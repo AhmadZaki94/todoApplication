@@ -1,0 +1,19 @@
+.addTask {
+  /* Sample */
+  padding: 1%;
+  font-size: 25px;
+}
+
+.addinput {
+  width: 80%;
+  border: none;
+  font-size: 50px;
+}
+
+.addbtn {
+  color: #3a5acd;
+  border: none;
+  background-color: inherit;
+  font-size: 25px;
+  font-weight: bolder;
+}
